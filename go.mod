@@ -1,3 +1,3 @@
-module github.com/webview/webview
+module github.com/dcpng/webview
 
-go 1.13
+go 1.14
